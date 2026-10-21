@@ -98,5 +98,10 @@ Fitur berikut tidak dibuat pada tahap ini:
 
 > Buat desain UI yang akan diimplemantasikan.
 
-<img width="146" height="220" alt="Screenshot 2026-10-20 141510" src="https://github.com/user-attachments/assets/a9d12efa-2429-4458-9768-6d959eb9e465" />
+<img width="380" height="800" alt="WhatsApp Image 2026-10-21 at 14 56 49" src="https://github.com/user-attachments/assets/3349a975-2068-4297-8a27-59d3e809e7aa" />
+<img width="380" height="800" alt="WhatsApp Image 2026-10-21 at 14 56 49 (1)" src="https://github.com/user-attachments/assets/e33e4ac3-c4f0-493a-821c-102c0bb4aeb2" />
+<img width="380" height="800" alt="WhatsApp Image 2026-10-21 at 14 56 49 (2)" src="https://github.com/user-attachments/assets/80c20695-3441-4449-a80f-06ea135157f9" />
+
+
+
 
